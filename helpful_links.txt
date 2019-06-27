@@ -1,3 +1,9 @@
 #How to stay up to date with AWS:
 https://aws.amazon.com/blogs/aws/
 https://aws.amazon.com/new/
+
+https://wa.aws.amazon.com/wat.design_principles.wa-dp.en.html
+https://wa.aws.amazon.com/wat.pillar.security.en.html
+
+https://portal.aws.amazon.com/billing/signup#/start
+https://aws.amazon.com/free
