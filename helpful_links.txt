@@ -13,6 +13,9 @@ https://aws.amazon.com/free
 #Cool interactive global infrastructure map
 https://www.infrastructure.aws/
 
+#AWS official icons (use these for everything!)
+https://aws.amazon.com/architecture/icons/
+
 #Third party tool for generating a VPC CloudFormation template
 https://asecure.cloud/p/securevpc/
 
