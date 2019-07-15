@@ -12,3 +12,42 @@ https://aws.amazon.com/free
 
 #Cool interactive global infrastructure map
 https://www.infrastructure.aws/
+
+#Third party tool for generating a VPC CloudFormation template
+https://asecure.cloud/p/securevpc/
+
+#Third party page for comparing EC2 instances "apples to apples"
+https://www.ec2instances.info/
+
+#How to share a Cloud9 environment, even cross-account"
+https://docs.aws.amazon.com/cloud9/latest/user-guide/share-environment.html
+
+#Comparison of all EBS volume types including upper limits on size and performance
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html
+
+#Deep dive explanation for RDS Aurora Serverless
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.how-it-works.html
+
+#The three types of Load Balancers
+https://docs.aws.amazon.com/AmazonECS/latest/developerguide/load-balancer-types.html
+
+#AWS Auto Scaling is more than just EC2
+https://aws.amazon.com/autoscaling/features/
+
+#Elastic Beanstalk has its own CLI
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html
+
+#AWS Permissions policy evaluation logic (EVERYONE SHOULD READ THIS)
+https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html
+
+#GuardDuty active finding types
+https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html
+
+#AWS Inspector rules packages
+https://docs.aws.amazon.com/inspector/latest/userguide/inspector_rule-packages.html
+
+#CloudWatch Logs metric filter syntax
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/FilterAndPatternSyntax.html
+
+#Deep dive explanation into EC2 Launch Templates
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-launch-templates.html
