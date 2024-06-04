@@ -1,8 +1,0 @@
-#Create a volume using the General Purpose SSD type
-aws ec2 create-volume --availability-zone <AZ> --volume-type gp2 --size <SIZE in GB>
-
-#Attach a volume to an ec2 instance
-aws ec2 attach-volume --volume-id <VOLUMEID> --instance-id <INSTANCEID> --device /dev/<device>
-
-#Upsize a volume
-aws ec2 modify-volume --volume-id <VOLUMEID> --size <NEWSIZE>
