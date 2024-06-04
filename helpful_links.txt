@@ -2,6 +2,9 @@
 https://aws.amazon.com/blogs/aws/
 https://aws.amazon.com/new/
 
+#AWS glossary
+https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html
+
 #Design principles
 https://wa.aws.amazon.com/wat.design_principles.wa-dp.en.html
 https://wa.aws.amazon.com/wat.pillar.security.en.html
