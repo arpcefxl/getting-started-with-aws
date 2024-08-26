@@ -6,8 +6,8 @@ https://aws.amazon.com/new/
 https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html
 
 #Design principles
-https://wa.aws.amazon.com/wat.design_principles.wa-dp.en.html
-https://wa.aws.amazon.com/wat.pillar.security.en.html
+https://docs.aws.amazon.com/en_us/wellarchitected/latest/framework/general-design-principles.html
+https://docs.aws.amazon.com/en_us/wellarchitected/latest/framework/security.html
 
 #Signing up for a new account
 https://portal.aws.amazon.com/billing/signup#/start
@@ -23,10 +23,7 @@ https://aws.amazon.com/architecture/icons/
 https://asecure.cloud/p/securevpc/
 
 #Third party page for comparing EC2 instances "apples to apples"
-https://www.ec2instances.info/
-
-#How to share a Cloud9 environment, even cross-account"
-https://docs.aws.amazon.com/cloud9/latest/user-guide/share-environment.html
+https://instances.vantage.sh/
 
 #Comparison of all EBS volume types including upper limits on size and performance
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html
@@ -49,8 +46,8 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-l
 #GuardDuty active finding types
 https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html
 
-#AWS Inspector rules packages
-https://docs.aws.amazon.com/inspector/latest/userguide/inspector_rule-packages.html
+#AWS Inspector finding types
+https://docs.aws.amazon.com/inspector/latest/user/findings-types.html
 
 #CloudWatch Logs metric filter syntax
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/FilterAndPatternSyntax.html
